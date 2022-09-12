@@ -1,8 +1,8 @@
 ########## LISEZ-MOI ##########
 
-Pré-requis
+PrÃ©-requis
 
-Node.JS (Dernière version stable)
+Node.JS (DerniÃ¨re version stable)
 
 npm install steam-user
 npm install steam-totp
